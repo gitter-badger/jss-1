@@ -27,28 +27,28 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ```javascript
 // feed.jss
 {
-  "jss": {
-    "version": 1.0,                        // JSS version
-    "uri": "http://ptrckbrwn.com/jss"      // JSS website
+  jss: {
+    version: 1.0,                        // JSS version
+    uri: "http://ptrckbrwn.com/jss"      // JSS website
   },
-  "feed": {
-    "title": "xkcd.com",                   // Title of content
-    "link": "http://xkcd.com/",            // Link to homepage of content
-    "id": "http://xkcd.com/",              // Unique ID of content
-    "updated": "2015-05-27T00:00:00Z",     // Datetime of when content was last updated
-    "entries": [{
-      "title": "Keyboard Mash",            // Entry title
-      "link": "http://xkcd.com/1530/",     // Link to entry
-      "updated": "2015-05-27T00:00:00Z",   // Date entry was last updated
-      "published": "2015-05-27T00:00:00Z", // Date entry was published
-      "id": "http://xkcd.com/1530/",       // Unique ID for entry
-      "authors": [{
-        "name": "Randall Monroe",          // Author name
-        "uri": "http://xkcd.com/",         // Author's homepage
-        "email": "randall@xkcd.com"        // Author's email
+  feed: {
+    title: "xkcd.com",                   // Title of content
+    link: "http://xkcd.com/",            // Link to homepage of content
+    id: "http://xkcd.com/",              // Unique ID of content
+    updated: "2015-05-27T00:00:00Z",     // Datetime of when content was last updated
+    entries: [{
+      title: "Keyboard Mash",            // Entry title
+      link: "http://xkcd.com/1530/",     // Link to entry
+      updated: "2015-05-27T00:00:00Z",   // Date entry was last updated
+      published: "2015-05-27T00:00:00Z", // Date entry was published
+      id: "http://xkcd.com/1530/",       // Unique ID for entry
+      authors: [{
+        name: "Randall Monroe",          // Author name
+        uri: "http://xkcd.com/",         // Author's homepage
+        email: "randall@xkcd.com"        // Author's email
       }],
-      "summary": "A Brief Summary...",     // Summary of content
-      "content": "The Full Article..."     // Full content
+      summary: "A Brief Summary...",     // Summary of content
+      content: "The Full Article..."     // Full content
     }]
   }
 }
