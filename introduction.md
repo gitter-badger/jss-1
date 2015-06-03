@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 // jss.json
 {
   jss: {
-    version: 1.0,                        // JSS version
+    revision: 1.0,                        // JSS version
     link: "http://ptrckbrwn.com/jss"     // JSS website
   },
   feed: {
