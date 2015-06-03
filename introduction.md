@@ -25,11 +25,11 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 ### Simple, single-entry
 
 ```javascript
-// feed.jss
+// jss.json
 {
   jss: {
     version: 1.0,                        // JSS version
-    uri: "http://ptrckbrwn.com/jss"      // JSS website
+    link: "http://ptrckbrwn.com/jss"     // JSS website
   },
   feed: {
     title: "xkcd.com",                   // Title of content
@@ -44,7 +44,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
       id: "http://xkcd.com/1530/",       // Unique ID for entry
       authors: [{
         name: "Randall Monroe",          // Author name
-        uri: "http://xkcd.com/",         // Author's homepage
+        link: "http://xkcd.com/",        // Author's homepage
         email: "randall@xkcd.com"        // Author's email
       }],
       summary: "A Brief Summary...",     // Summary of content
