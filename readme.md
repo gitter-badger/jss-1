@@ -1,5 +1,7 @@
 # JSS: The JSON Syndication Standard
 
+[![Join the chat at https://gitter.im/ptrckbrwn/jss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ptrckbrwn/jss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > Modernizing the aging RSS/Atom standard.
 > Relevant xkcd: [https://xkcd.com/927/](https://xkcd.com/927/)
 
