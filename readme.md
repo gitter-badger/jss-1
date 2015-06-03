@@ -1,4 +1,4 @@
-# JSS <small>JSON Syndication Standard</small>
+# JSS: The JSON Syndication Standard
 
 > Modernizing the aging RSS/Atom standard.
 
@@ -13,5 +13,5 @@ This document defines the JavaScript Object Notation Syndication Standard (JSS),
 ## Table of Contents
 
 1. [Introduction](/introduction.md)
-  1. Rational
-  2. Examples
+  1. [Rational](/introduction.md#rational)
+  2. [Examples](/introduction.md#examples)
