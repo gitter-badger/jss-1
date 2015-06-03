@@ -12,6 +12,6 @@ This document defines the JavaScript Object Notation Syndication Standard (JSS),
 
 ## Table of Contents
 
-1. [Introduction]("/introduction.html")
+1. [Introduction](/introduction.html)
   1. Rational
   2. Examples
